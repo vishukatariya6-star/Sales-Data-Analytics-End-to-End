@@ -1,20 +1,52 @@
-# 📊 End-to-End Sales Data Analytics Project
+# End-to-End Sales Data Analytics Dashboard
 
-## 📌 Project Overview
-Ek comprehensive sales data analysis project jo raw data ko actionable insights mein convert karta hai. Isme data cleaning se lekar dynamic dashboarding tak ka poora process shamil hai.
+## Project Overview
+This project focuses on analyzing sales data and building an interactive Excel dashboard to monitor business performance and identify key trends.
 
-## 🛠️ Key Technical Skills
-- **Data Cleaning:** Handling missing values, standardizing territories, and formatting dates.
-- **Analysis:** Revenue trends across USA, France, and Spain.
-- **Dynamic Dashboard:** Search-based system to find orders instantly by Order Number.
-- **Advanced Excel:** VLOOKUP, Pivot Tables, Power Query, and Conditional Formatting.
+The dashboard helps stakeholders track sales growth, product performance, and regional performance.
 
-## 📈 Analysis Summary
-- **Top Markets:** USA leads with $3.5M+ in revenue.
-- **Order Status:** Real-time tracking of Shipped, Resolved, and Cancelled orders.
-- **Product Insights:** Detailed breakdown of sales by Product Lines (Classic Cars, etc.).
+## Tools Used
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- Data Cleaning Techniques
 
-## 📁 How to View the Project
-1. Repository se `.xlsx` file download karein.
-2. Excel mein open karke **Dashboard** tab par jayein.
-3. Search box mein koi bhi Order Number (e.g., 10107) daalein results dekhne ke liye.
+## Project Objectives
+- Analyze sales data
+- Identify revenue trends
+- Track product performance
+- Monitor regional sales distribution
+
+## Data Preparation
+The dataset was cleaned and prepared before analysis.
+
+Steps performed:
+- Removed missing values
+- Corrected inconsistent data
+- Organized columns for analysis
+- Structured the dataset for Pivot Tables
+
+## Dashboard Features
+The dashboard includes the following components:
+
+- Total sales KPI
+- Monthly sales trend
+- Sales by region
+- Sales by product category
+- Interactive filters using slicers
+
+## Key Insights
+- Identified high-performing product categories
+- Observed monthly revenue patterns
+- Highlighted top-performing regions
+
+## Skills Demonstrated
+- Data cleaning
+- Data transformation
+- Pivot table analysis
+- Dashboard design
+- Business insight generation
+
+## Outcome
+The project demonstrates how Excel dashboards can be used to convert raw sales data into actionable insights for decision-making.
